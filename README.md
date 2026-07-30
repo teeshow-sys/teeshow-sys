@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an aspiring web developer currently building a solid foundation in software engineering. I am currently tackling **The Odin Project**, project-based full-stack curriculum.
+I am an beginner web developer currently building a solid foundation in software engineering. I am currently tackling **The Odin Project**, project-based full-stack curriculum.
 
 ---
 
