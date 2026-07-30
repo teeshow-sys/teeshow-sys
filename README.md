@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**teeshow-sys/teeshow-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring web developer currently building a solid foundation in software engineering. I am currently tackling **The Odin Project**, project-based full-stack curriculum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 Current Learning Progress
+- Path: Full-Stack Web Development (Foundations)
+- Current Progress: 8% Complete 🚀
+- Current Focus: Master Git/GitHub workflows, semantic HTML5, and CSS layout fundamentals, Javascript basics
+
+---
+
+# 🛠️ Tech Stack & Tools I'm Learning
+- Languages:HTML5, CSS3, JS
+- Tools & Workflow: Git, GitHub, Command Line (Zsh), VS Code
+---
+
+# Projects & Milestones
+I will be hosting my hands-on projects here.
+
+---
+
+# 📫 Connect with Me
+- LinkedIn: linkedin.com/in/taiwo-solanke-94a4913b3
+
+“The best way to predict the future is to invent it.”
