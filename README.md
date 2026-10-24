@@ -6,7 +6,7 @@ I am a beginner web developer currently building a solid foundation in software 
 
 # 📊 Current Learning Progress
 - Path: Full-Stack Web Development (Foundations)
-- Current Progress: 26% Complete 🚀
+- Current Progress: 80% Complete 🚀
 - Current Focus: Master Git/GitHub workflows, semantic HTML5, and CSS layout fundamentals, Javascript basics
 
 ---
